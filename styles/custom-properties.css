@@ -1,0 +1,11 @@
+/*
+
+Define custom properties here.
+
+*/
+
+:root{
+    --primary-bg-color: rgb(201, 201, 201);
+    --secondary-bg-color: rgb(224, 224, 224);
+    --size-sm: 900px
+}

@@ -1,0 +1,36 @@
+/**** Header ****/
+header{
+    background-color: var(--secondary-bg-color);
+}
+
+/**** Main ****/
+main{
+    background-color: var(--primary-bg-color);
+}
+
+/**** Nav ****/
+nav{
+    background-color: var(--primary-bg-color);
+}
+
+.nav{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item{
+    list-style: none;    
+    padding-right: 2em;
+}
+
+@media(min-width: var(--size-sm)){
+    .nav-item{
+        padding: 0;
+    }
+}
+
+/**** Footer ****/
+footer{
+    background-color: var(--secondary-bg-color);
+}
+
