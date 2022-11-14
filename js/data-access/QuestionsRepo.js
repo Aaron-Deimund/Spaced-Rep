@@ -64,7 +64,7 @@ export default class QuestionRepo {
 		}
 	}
 
-	addData() {
+	addQuestion(question){
 		const request = window.indexedDB.open("questions");
 		request.onsuccess = () => {
 			const db = request.result;
@@ -72,45 +72,46 @@ export default class QuestionRepo {
 			const store = tran.objectStore("question");
 
 			store.put({
-				category: "Test 1",
-				period: 1,
-				last_success: "01/01/22",
-				question: "some question here",
-				type: "fill-in",
-				correct_answer: "test"
+				period: question.period,
+				last_success: question.last_success,
+				eligible_on: question.eligible_on,
+				category: question.category,
+				type: question.type,
+				question: question.question,
+				correct_answers: question.correct_answers,
+				incorrect_answers: question.incorrect_answers
 			});
-			store.put({
-				category: "Test 2",
-				period: 1,
-				last_success: "01/01/22",
-				question: "some question here",
-				type: "fill-in",
-				correct_answer: "test"
-			});
-			store.put({
-				category: "Test 3",
-				period: 1,
-				last_success: "01/01/22",
-				question: "some question here",
-				type: "fill-in",
-				correct_answer: "test"
-			});
-			store.put({
-				category: "Test 4",
-				period: 1,
-				last_success: "01/01/22",
-				question: "some question here",
-				type: "fill-in",
-				correct_answer: "test"
-			});
-			store.put({
-				category: "Test 5",
-				period: 1,
-				last_success: "01/01/22",
-				question: "some question here",
-				type: "fill-in",
-				correct_answer: "test"
-			});
-		};
+		}
+	}
+
+	importJson(imported_JSON) {
+		let json = JSON.parse(imported_JSON);
+		json.questions.forEach(question => {
+			this.addQuestion(question);
+		});
+	}
+
+	getJson(){
+		const promise =  new Promise((resolve)=>{
+			const request = window.indexedDB.open("questions");
+			request.onsuccess = () => {
+				const db = request.result;
+				const tran = db.transaction("question", "readwrite");
+				const store = tran.objectStore("question");
+				const idQuery = store.getAll();
+
+				idQuery.onsuccess = () => {
+					if(idQuery.result){
+						const res = {"date generated": new Date(), "questions": idQuery.result};
+						resolve(JSON.stringify(res, null, 4));
+					}
+				};
+			};
+		});
+		return promise;
+	}
+
+	getNextQuestion(category){
+		
 	}
 }

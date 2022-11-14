@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,28 +9,50 @@
     <script type="module" src="js/main.js"></script>
     <title>Document</title>
 </head>
+
 <body>
     <header>
-        <h1>Main Title</h1>
-        <p>subtitle</p>
+        <h1>Spaced Repetitions Learning</h1>
+        <p>Learn through spaced repetitions</p>
     </header>
     <main>
-        <h2>Main Content Header</h2>
-        <button id = "add-data-button">Add Data</button>
-        <button id = "query-data-button">Query Data</button>
-        <button id = "clear-data-button">Clear Data</button>
+        <h2 id="category-name">Category Name</h2>
+        <h3 id="question-text">Question text will go here. This may be quite long so I am going to enter quite a bit of
+            text here.</h3>
+        <code id="question-code">some code may go here</code>
+        <p id="question-instructions">Select all that apply:</p>
+        <div class="question-group">
+            <input type="checkbox" name="option-0" id="option-0">
+            <label for="option-0">option-0</label>
+        </div>
+        <div class="question-group">
+            <input type="checkbox" name="option-1" id="option-1">
+            <label for="option-1">option-1</label>
+        </div>
+        <div class="question-group">
+            <input type="checkbox" name="option-2" id="option-2">
+            <label for="option-2">option-2</label>
+        </div>
+        <div class="question-group">
+            <input type="checkbox" name="option-3" id="option-3">
+            <label for="option-3">option-3</label>
+        </div>
     </main>
     <nav>
         <ul class="nav">
-            <li class="nav-item">nav item</li>
-            <li class="nav-item">nav item</li>
-            <li class="nav-item">nav item</li>
-            <li class="nav-item">nav item</li>
-            <li class="nav-item">nav item</li>
+            <li class="nav-item"><button id="import-data-button">Import Data</button></li>
+            <li class="nav-item"><button id="download-data-button">Download Data</button></li>
+            <li class="nav-item"><button id="clear-data-button">Clear Data</button></li>
         </ul>
     </nav>
+    <dialog id="import-dialog">
+        <textarea name="import-panel" id="import-panel" cols="30" rows="10"></textarea>
+        <button id="import-from-dialog">Import</button>
+        <button id="cancel-import-dialog">Cancel</button>
+    </dialog>
     <footer>
         <p>created by Aaron Deimund</p>
     </footer>
 </body>
+
 </html>

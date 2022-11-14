@@ -13,20 +13,17 @@ body{
     grid-template-columns: auto;
     grid-template-rows: 
         minmax(10vh, min-content)
-        min-content
         auto 
+        min-content
         minmax(10vh, min-content);
     grid-template-areas: 
         "header"
-        "nav"
         "main"
+        "nav"
         "footer";
 }
 
-nav ul{
-    display: flex;
-    align-content: space-between;
-}
+
 
 @media(min-width: 900px){
     body{

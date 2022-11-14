@@ -5,7 +5,11 @@ Define custom properties here.
 */
 
 :root{
-    --primary-bg-color: rgb(201, 201, 201);
+    --primary-bg-color: rgb(243, 243, 243);
     --secondary-bg-color: rgb(224, 224, 224);
-    --size-sm: 900px
+    --size-sm: 900px;
+
+    --primary-gap: 10px;
+    --primary-item-margin: var(--primary-gap);
+    --nav-button-width: 150px;
 }

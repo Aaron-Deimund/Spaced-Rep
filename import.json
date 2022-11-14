@@ -1,0 +1,855 @@
+{
+    "response_code": 0,
+    "questions": [
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Apollo mission was the first one to land on the Moon?",
+            "correct_answers": [
+				"Apollo 11"
+			],
+            "incorrect_answers": [
+                "Apollo 10",
+                "Apollo 9",
+                "Apollo 13"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is not the name of a &quot;Bond Girl&quot;? ",
+            "correct_answers": [
+				"Vanessa Kensington"
+			],
+            "incorrect_answers": [
+                "Pam Bouvier",
+                "Mary Goodnight",
+                "Wai Lin"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+            "correct_answers": [
+				"Boston Red Sox"
+			],
+            "incorrect_answers": [
+                "New York Mets",
+                "Baltimore Orioles",
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Animals",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the fastest  land animal?",
+            "correct_answers": [
+				"Cheetah"
+			],
+            "incorrect_answers": [
+                "Lion",
+                "Thomson&rsquo;s Gazelle",
+                "Pronghorn Antelope"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who wrote the Sinead O`Connor hit &#039;Nothing Compares 2 U&#039;?",
+            "correct_answers": [
+				"Prince"
+			],
+            "incorrect_answers": [
+                "Michael Jackson",
+                "Cameo",
+                "Rick James"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+            "correct_answers": [
+				"Cabbage Patch Kids"
+			],
+            "incorrect_answers": [
+                "Transformers",
+                "Care Bears",
+                "Rubik&rsquo;s Cube"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What state is the largest state of the United States of America?",
+            "correct_answers": [
+				"Alaska"
+			],
+            "incorrect_answers": [
+                "California",
+                "Texas",
+                "Washington"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+            "correct_answers": [
+				"Carbon"
+			],
+            "incorrect_answers": [
+                "Nitrogen",
+                "Oxygen",
+                "Hydrogen"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the cancelled sequel of Team Fortress?",
+            "correct_answers": [
+				"Team Fortress 2: Brotherhood of Arms"
+			],
+            "incorrect_answers": [
+                "Team Fortress 2: Desert Mercenaries",
+                "Team Fortress 2: Operation Gear Grinder",
+                "Team Fortress 2: Return to Classic"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Where does the Mac part of the name Fleetwood Mac come from?",
+            "correct_answers": [
+				"John McVie"
+			],
+            "incorrect_answers": [
+                "Christine McVie",
+                "Mac McAnally",
+                "David Tennant"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many members are there in the band Nirvana?",
+            "correct_answers": [
+				"Three"
+			],
+            "incorrect_answers": [
+                "Two",
+                "Four",
+                "Five"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+            "correct_answers": [
+				"Nitrogen"
+			],
+            "incorrect_answers": [
+                "Oxygen",
+                "Argon",
+                "Carbon Dioxide"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
+            "correct_answers": [
+				"Apollo 13"
+			],
+            "incorrect_answers": [
+                "The Right Stuff",
+                "Capricorn One",
+                "Marooned"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does the Prt Sc button do?",
+            "correct_answers": [
+				"Captures what&#039;s on the screen and copies it to your clipboard"
+			],
+            "incorrect_answers": [
+                "Nothing",
+                "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+                "Closes all windows"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following blood vessels carries deoxygenated blood?",
+            "correct_answers": [
+				"Pulmonary Artery"
+			],
+            "incorrect_answers": [
+                "Pulmonary Vein",
+                "Aorta",
+                "Coronary Artery"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
+            "correct_answers": [
+				"Illyrians"
+			],
+            "incorrect_answers": [
+                "Dorians",
+                "Achaeans",
+                "Ionians"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who voices for Ruby in the animated series RWBY?",
+            "correct_answers": [
+				"Lindsay Jones"
+			],
+            "incorrect_answers": [
+                "Tara Strong",
+                "Jessica Nigri",
+                "Hayden Panettiere"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Inuyasha&quot;, what are the heros are looking to collect?",
+            "correct_answers": [
+				"Jewel Shards"
+			],
+            "incorrect_answers": [
+                "Dragon Balls",
+                "Rave Stones",
+                "Sacred Stones"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many Harry Potter books are there?",
+            "correct_answers": [
+				"7"
+			],
+            "incorrect_answers": [
+                "8",
+                "5",
+                "6"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the &quot;Worms&quot; series of video games, which of these weapons is affected by wind?",
+            "correct_answers": [
+				"Bazooka"
+			],
+            "incorrect_answers": [
+                "Grenade",
+                "Air Strike",
+                "Mortar"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the French word for &quot;hat&quot;?",
+            "correct_answers": [
+				"Chapeau"
+			],
+            "incorrect_answers": [
+                "Bonnet",
+                " &Eacute;charpe",
+                " Casque"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Undertale, what&#039;s the prize for answering correctly?",
+            "correct_answers": [
+				"More questions"
+			],
+            "incorrect_answers": [
+                "New car",
+                "Mercy",
+                "Money"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who created the Cartoon Network series &quot;Adventure Time&quot;?",
+            "correct_answers": [
+				"Pendleton Ward"
+			],
+            "incorrect_answers": [
+                "J. G. Quintel",
+                "Ben Bocquelet",
+                "Rebecca Sugar"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+            "correct_answers": [
+				"Apollo"
+			],
+            "incorrect_answers": [
+                "Aphrodite",
+                "Artemis",
+                "Athena"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What company develops the Rock Band series of rhythm games?",
+            "correct_answers": [
+				"Harmonix"
+			],
+            "incorrect_answers": [
+                "Activision",
+                "Konami",
+                "Electronic Arts"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In DuckTales, what is the name of the city where all the main characters live?",
+            "correct_answers": [
+				"Duckburg"
+			],
+            "incorrect_answers": [
+                "Duckwing",
+                "Tailspin",
+                "Wingford"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Star Trek: The Next Generation, what is the name of Data&#039;s cat?",
+            "correct_answers": [
+				"Spot"
+			],
+            "incorrect_answers": [
+                "Mittens",
+                "Tom",
+                "Kitty"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the world that the MMO &quot;RuneScape&quot; takes place in?",
+            "correct_answers": [
+				"Gielinor"
+			],
+            "incorrect_answers": [
+                "Glindor",
+                "Azeroth",
+                "Zaros"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+            "correct_answers": [
+				"Andrew Jackson"
+			],
+            "incorrect_answers": [
+                "Harry S. Truman",
+                "Martin Van Buren",
+                "John Quincy Adams"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the smallest country in the world?",
+            "correct_answers": [
+				"Vatican City"
+			],
+            "incorrect_answers": [
+                "Maldives",
+                "Monaco",
+                "Malta"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How tall is the Burj Khalifa?",
+            "correct_answers": [
+				"2,722 ft"
+			],
+            "incorrect_answers": [
+                "2,717 ft",
+                "2,546 ft",
+                "3,024 ft"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Kirby game first introduced Copy Abilities?",
+            "correct_answers": [
+				"Kirby&#039;s Adventure"
+			],
+            "incorrect_answers": [
+                "Kirby Super Star",
+                "Kirby&#039;s Dream Land 2",
+                "Kirby&#039;s Dream Land"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Science: Gadgets",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When did the CD begin to appear on the consumer market?",
+            "correct_answers": [
+				"1982"
+			],
+            "incorrect_answers": [
+                "1992",
+                "1972",
+                "1962"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Vehicles",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The LS7 engine is how many cubic inches?",
+            "correct_answers": [
+				"427"
+			],
+            "incorrect_answers": [
+                "346",
+                "364",
+                "376"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the unit of electrical resistance?",
+            "correct_answers": [
+				"Ohm"
+			],
+            "incorrect_answers": [
+                "Mho",
+                "Tesla",
+                "Joule"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What year did World War I begin?",
+            "correct_answers": [
+				"1914"
+			],
+            "incorrect_answers": [
+                "1905",
+                "1919",
+                "1925"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which &quot;Call Of Duty: Zombies&quot; map introduced the &quot;Staffs Of The Ancients&quot;?",
+            "correct_answers": [
+				"Origins"
+			],
+            "incorrect_answers": [
+                "Shangri-La",
+                "Revelations",
+                "Nuketown"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+            "correct_answers": [
+				"Cat"
+			],
+            "incorrect_answers": [
+                "Dog",
+                "Bat",
+                "Butterfly"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which actor portrays &quot;Walter White&quot; in the series &quot;Breaking Bad&quot;?",
+            "correct_answers": [
+				" Bryan Cranston"
+			],
+            "incorrect_answers": [
+                "Andrew Lincoln",
+                "Aaron Paul",
+                "RJ Mitte"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+            "correct_answers": [
+				"Seinfeld"
+			],
+            "incorrect_answers": [
+                "Frasier",
+                "Becker",
+                "Friends"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In which fast food chain can you order a Jamocha Shake?",
+            "correct_answers": [
+				"Arby&#039;s"
+			],
+            "incorrect_answers": [
+                "McDonald&#039;s",
+                "Burger King",
+                "Wendy&#039;s"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the &quot;Hitman&quot; series, what is the name of the main character?",
+            "correct_answers": [
+				"Agent 47"
+			],
+            "incorrect_answers": [
+                "Agent 27",
+                "Agent Smith",
+                "Agent 67"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V&rsquo;s story mode?",
+            "correct_answers": [
+				"Tommy Vercetti"
+			],
+            "incorrect_answers": [
+                "Michael de Santa",
+                "Franklin Clinton",
+                "Trevor Phillips"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What TV show is about a grandfather dragging his grandson around on adventures?",
+            "correct_answers": [
+				"Rick &amp; Morty"
+			],
+            "incorrect_answers": [
+                "Family Guy",
+                "South Park",
+                "American Dad"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following games has the largest map size?",
+            "correct_answers": [
+				"Just Cause 2"
+			],
+            "incorrect_answers": [
+                "Grand Theft Auto 5",
+                "The Elder Scrolls 4:  Oblivion",
+                "The Witcher 3:  Wild Hunt"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which part from the JoJo&#039;s Bizarre Adventure manga is about a horse race across America?",
+            "correct_answers": [
+				"Part 7: Steel Ball Run"
+			],
+            "incorrect_answers": [
+                "Part 6: Stone Ocean",
+                "Part 3: Stardust Crusaders",
+                "Part 5: Golden Wind"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What name is the main character Chihiro given in the 2001 movie &quot;Spirited Away&quot;?",
+            "correct_answers": [
+				"Sen (Thousand)"
+			],
+            "incorrect_answers": [
+                "Hyaku (Hundred)",
+                "Ichiman (Ten thousand)",
+                "Juu (Ten)"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following blood component forms a plug at the site of injuries?",
+            "correct_answers": [
+				"Platelets"
+			],
+            "incorrect_answers": [
+                "Red blood cells",
+                "White blood cells",
+                "Blood plasma"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+            "correct_answers": [
+				"Nokia Tune"
+			],
+            "incorrect_answers": [
+                "Hello Moto [Motorola Ringtone]",
+                "Droid Ringtone",
+                "Microsoft Ringtone"
+            ]
+        },
+        {
+		    "period": 1,
+            "last_success": null,
+            "eligible_on": null,
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following was a map that was in Team Fortress 2 at launch?",
+            "correct_answers": [
+				"Gravel Pit"
+			],
+            "incorrect_answers": [
+                "Hoodoo",
+                "Gold Rush",
+                "Upward"
+            ]
+        }
+    ]
+}
