@@ -24,24 +24,25 @@ nav{
 }
 
 nav ul{
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, var(--nav-button-width));
     gap: var(--primary-gap);
 }
 
 .nav{
     margin: 0;
     padding: 0;
-    margin-block: var(--primary-gap);
+    margin: var(--primary-gap);
 }
 
 .nav-item{
     list-style: none;
-    margin-inline: var(--primary-item-margin); 
+     
 }
 
 .nav-item button{
     width: var(--nav-button-width);
+    font-size: var(--button-text);
 }
 
 @media(min-width: var(--size-sm)){

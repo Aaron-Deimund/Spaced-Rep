@@ -28,7 +28,7 @@ body{
 @media(min-width: 900px){
     body{
         display: grid;
-        grid-template-columns: auto 15em;
+        grid-template-columns: auto min-content;
         grid-template-rows: 
             minmax(10vh, min-content) 
             auto 

@@ -11,5 +11,7 @@ Define custom properties here.
 
     --primary-gap: 10px;
     --primary-item-margin: var(--primary-gap);
-    --nav-button-width: 150px;
+    --nav-button-width: 100px;
+
+    --button-text: .75rem;
 }
